@@ -1,0 +1,38 @@
+OOPS With Java : 
+Day 2 : 16-04-2024
+
+1. Write a program to check if a given number is positive, negative, or zero.
+
+2. Write a program to determine whether a given year is a leap year or not.
+
+3. Write a program to check if a given character is a vowel or a consonant.
+
+4. Write a program to find the largest of three numbers entered by the user.
+
+5. Write a program to check if a given number is even or odd.
+
+6. Write a program to determine the grade of a student based on their marks.
+
+90 or above: A
+80-89: B
+70-79: C
+60-69: D
+Below 60: F
+
+7. Write a program to determine if a triangle is equilateral, isosceles, or scalene based on its side lengths.
+
+8. Write a program to check if a given number is divisible by both 5 and 11.
+
+9.Write a program to calculate the net salary of an employee based on the following conditions:
+
+If the basic salary is less than or equal to 10000, the HRA (House Rent Allowance) is 20% of the basic salary
+and the DA (Dearness Allowance) is 80% of the basic salary.
+If the basic salary is greater than 10000, the HRA is 25% of the basic salary 
+and the DA is 90% of the basic salary.
+
+10. Write a program to calculate the income tax payable by an individual based on their annual income, considering the following tax slabs:
+
+Income less than or equal to 2.5 lakhs: No tax.
+Income greater than 2.5 lakhs and less than or equal to 5 lakhs: 5% of the income.
+Income greater than 5 lakhs and less than or equal to 10 lakhs: 10% of the income.
+Income greater than 10 lakhs: 15% of the income.
