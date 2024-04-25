@@ -1,0 +1,32 @@
+Assignment 6 - OOP With Java 
+1. Class and Object Basics:
+Create a class Person with attributes name, age and country. Implement methods to set and get these attributes. Create an object of this class, set its attributes, and print out the details.
+
+2. Constructor Overloading:
+Extend the Person class from the previous problem and add multiple constructors (default, parameterized, etc.) to initialize the attributes. Also, include a method to display the details.
+
+3. Using this:
+Modify the Person class to include a method that displays the name and age of the object. Use this keyword to differentiate between class variables and method parameters. Implement a method to compare two Person objects based on their age.
+
+4. Static Variable:
+Create a class BankAccount with accno, accType, Balance and static variable interestRate. Initialize it using a static block. Implement methods to deposit and withdraw funds. Create objects and display details.
+
+5. Static Method:
+Add a static method to the BankAccount class from the previous problem to calculate interest based on a given balance and interest rate. Also, implement a method to display the account details including balance and interest earned.
+
+6. Using this in Constructors:
+Create a class Rectangle with attributes length and width. Implement a parameterized constructor that initializes these attributes. Use this to differentiate between class variables and constructor parameters. Include methods to calculate the area and perimeter.
+
+7. Class and methods:
+Create a class Calculator with relevant data members and a constructor. Implement methods for basic arithmetic operations (addition, subtraction, multiplication, division, modulus) and demonstrate their usage.
+
+8. Composition and Aggregation:
+Create a class Address with attributes street, city, and state. Then create a class Person with attributes name and an Address object. Demonstrate how to use composition to model the relationship between a person and their address.
+
+9. Encapsulation and Access Modifiers:
+Create a class Student with private attributes name, rollNumber, and grade. Provide public methods to get and set these attributes. Additionally, implement a method to display the student's information.
+
+Class and methods:
+10. Define a class of type Student that has rollno, name and age as private data members. Define SetData() and GetData() as public member functions with appropriate functionality. 
+Write a program that declares 2 student objects, initializes the first at run-time and second by reading from console, and then displays both student’s 
+data.
